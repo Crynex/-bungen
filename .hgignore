@@ -1,0 +1,14 @@
+.alt
+.check
+.obsolete
+.swp
+bin
+obj
+gen
+.*.aux
+.*.exe
+.*.obj
+.*.log
+OpenCover$
+ProfilingSessions$
+tmp/*

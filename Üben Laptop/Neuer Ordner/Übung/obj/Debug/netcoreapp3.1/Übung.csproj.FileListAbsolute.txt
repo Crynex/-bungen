@@ -1,0 +1,13 @@
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.csprojAssemblyReference.cache
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.AssemblyInfoInputs.cache
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.AssemblyInfo.cs
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.exe
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.deps.json
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.runtimeconfig.json
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.runtimeconfig.dev.json
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.dll
+C:\Users\alexb\source\repos\Übung\Übung\bin\Debug\netcoreapp3.1\Übung.pdb
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.dll
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.pdb
+C:\Users\alexb\source\repos\Übung\Übung\obj\Debug\netcoreapp3.1\Übung.genruntimeconfig.cache
