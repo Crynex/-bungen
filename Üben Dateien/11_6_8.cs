@@ -7,6 +7,7 @@ namespace Dateien_üben
 {
     class _11_6_8
     {
+        /*
         static void Main()
         {
             Console.Write("Geben Sie den Namen der datei an: ");
@@ -27,5 +28,6 @@ namespace Dateien_üben
 
             Console.WriteLine("Die Anzahl ist der Zeilen {0}" + anzahl);
         }
+        */
     }
 }
