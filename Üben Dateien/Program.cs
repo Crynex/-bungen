@@ -7,6 +7,7 @@ namespace Dateien_üben
 {
     class Program
     {
+        /*
         static void Main(string[] args)
         {
             Console.Write("Geben Sie den Namen der Datei an: ");
@@ -41,5 +42,6 @@ namespace Dateien_üben
 
             writer.Close();
         }
+        */
     }
 }
